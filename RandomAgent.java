@@ -73,7 +73,10 @@ public class RandomAgent {
             agent = " Astra";
         }
         System.out.println("You Must Play" + agent);
-
+                
+                
+//end after one use (if you want to use it continuously after one run, remove the break)
+                break;
         
 
        
